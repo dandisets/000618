@@ -2,22 +2,83 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000618
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about:
+- {}
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 23051715064
+  numberOfFiles: 15
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
-citation: Magland, Jeremy (2023) SpikeForest ground truth datasets (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000618/draft
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+    name: Rattus norvegicus - Norway rat
+    schemaKey: SpeciesType
+  variableMeasured:
+  - ElectrodeGroup
+  - ElectricalSeries
+  - Units
+citation: Magland, Jeremy; Jun, James J; Lovero, Elizabeth; Morley, Alexander J; Hurwitz,
+  Cole Lincoln; Buccino, Alessio Paolo; Garcia, Samuel; Barnett, Alex H (2023) SpikeForest
+  ground truth datasets (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000618/draft
 contributor:
 - affiliation: []
-  email: jmagland+github@simonsfoundation.org
+  email: jmagland@flatironinstitute.org
   includeInCitation: true
   name: Magland, Jeremy
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Jun, James J
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Lovero, Elizabeth
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Morley, Alexander J
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Hurwitz, Cole Lincoln
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Buccino, Alessio Paolo
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Garcia, Samuel
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Barnett, Alex H
+  roleName: []
   schemaKey: Person
 dateCreated: '2023-08-04T13:32:03.181333+00:00'
 description: 'The SpikeForest project contains a collection of electrophysiological
@@ -27,15 +88,28 @@ description: 'The SpikeForest project contains a collection of electrophysiologi
 
 
   For more information, see https://elifesciences.org/articles/55167'
+ethicsApproval: []
 id: DANDI:000618/draft
 identifier: DANDI:000618
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000618/versions/draft/assets/
 name: SpikeForest ground truth datasets
+protocol: []
+relatedResource:
+- identifier: paired_kampff
+  name: 'Recording from the same neuron with high-density CMOS probes and patch-clamp:
+    a ground-truth dataset and an experiment in collaboration'
+  relation: dcite:HasPart
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/370080v1
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000618/draft
 version: draft
+wasGeneratedBy:
+- {}
