@@ -22,8 +22,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 60907630104
-  numberOfFiles: 50
+  numberOfBytes: 81993571896
+  numberOfFiles: 63
   numberOfSubjects: 3
   schemaKey: AssetsSummary
   species:
@@ -94,6 +94,9 @@ description: 'The SpikeForest project contains a collection of electrophysiologi
   recordings together with ground truth spiking information for the purpose of benchmarking
   the performance of spike sorting algorithms. In this dandiset we provide a subset
   of these recordings together with ground truth.
+
+
+  This dataset was prepared using the following script: https://github.com/flatironinstitute/spikeforest/blob/main/devel/dandiset/prepare_dandiset.py
 
 
   For more information, see https://elifesciences.org/articles/55167'
