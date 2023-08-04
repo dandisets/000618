@@ -16,27 +16,31 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: multi electrode extracellular electrophysiology recording technique
+  - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
+  - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 23051715064
-  numberOfFiles: 15
-  numberOfSubjects: 1
+  numberOfBytes: 60907630104
+  numberOfFiles: 50
+  numberOfSubjects: 3
   schemaKey: AssetsSummary
   species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectrodeGroup
-  - ElectricalSeries
   - Units
+  - ElectricalSeries
+  - ElectrodeGroup
 citation: Magland, Jeremy; Jun, James J; Lovero, Elizabeth; Morley, Alexander J; Hurwitz,
-  Cole Lincoln; Buccino, Alessio Paolo; Garcia, Samuel; Barnett, Alex H (2023) SpikeForest
-  ground truth datasets (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000618/draft
+  Cole Lincoln; Buccino, Alessio Paolo; Garcia, Samuel; Barnett, Alex H; English,
+  Daniel (2023) SpikeForest ground truth datasets (Version draft) [Data set]. DANDI
+  archive. https://dandiarchive.org/dandiset/000618/draft
 contributor:
 - affiliation: []
   email: jmagland@flatironinstitute.org
@@ -80,6 +84,11 @@ contributor:
   name: Barnett, Alex H
   roleName: []
   schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: English, Daniel
+  roleName: []
+  schemaKey: Person
 dateCreated: '2023-08-04T13:32:03.181333+00:00'
 description: 'The SpikeForest project contains a collection of electrophysiological
   recordings together with ground truth spiking information for the purpose of benchmarking
@@ -99,12 +108,18 @@ manifestLocation:
 name: SpikeForest ground truth datasets
 protocol: []
 relatedResource:
-- identifier: paired_kampff
+- identifier: paired-kampff
   name: 'Recording from the same neuron with high-density CMOS probes and patch-clamp:
     a ground-truth dataset and an experiment in collaboration'
   relation: dcite:HasPart
   schemaKey: Resource
   url: https://www.biorxiv.org/content/10.1101/370080v1
+- identifier: paired-boyden
+  name: Automated in vivo patch-clamp evaluation of extracellular multielectrode array
+    spike recording capability
+  relation: dcite:HasPart
+  schemaKey: Resource
+  url: https://journals.physiology.org/doi/full/10.1152/jn.00650.2017
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
