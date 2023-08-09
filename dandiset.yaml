@@ -22,8 +22,10 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 145520795032
-  numberOfFiles: 123
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 145521718882
+  numberOfFiles: 124
   numberOfSubjects: 4
   schemaKey: AssetsSummary
   species:
@@ -37,6 +39,7 @@ assetsSummary:
   - Units
   - ElectricalSeries
   - ElectrodeGroup
+  - ProcessingModule
 citation: Magland, Jeremy; Jun, James J; Lovero, Elizabeth; Morley, Alexander J; Hurwitz,
   Cole Lincoln; Buccino, Alessio Paolo; Garcia, Samuel; Barnett, Alex H; English,
   Daniel (2023) SpikeForest ground truth datasets (Version draft) [Data set]. DANDI
