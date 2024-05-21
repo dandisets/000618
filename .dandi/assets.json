@@ -5,7 +5,7 @@
 "blob":
 "d640c378-7025-4c3b-a334-169ec3df4f3f",
 "created":
-"2023-08-07T17:41:42.185877+00:00",
+"2023-08-07T17:41:42.185877Z",
 "metadata":
 {
 "@context":
@@ -192,7 +192,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:42.185897+00:00",
+"2023-08-07T17:41:42.185897Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-1200s-11_ecephys.nwb",
 "size":
@@ -204,7 +204,7 @@
 "blob":
 "60310ab7-6721-4d19-a09d-cb956750bbe9",
 "created":
-"2023-08-07T17:41:39.028650+00:00",
+"2023-08-07T17:41:39.028650Z",
 "metadata":
 {
 "@context":
@@ -391,7 +391,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:39.028670+00:00",
+"2023-08-07T17:41:39.028670Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-1200s-21_ecephys.nwb",
 "size":
@@ -403,7 +403,7 @@
 "blob":
 "c781eb99-4553-47df-8def-43776ea574be",
 "created":
-"2023-08-07T17:41:40.518738+00:00",
+"2023-08-07T17:41:40.518738Z",
 "metadata":
 {
 "@context":
@@ -590,7 +590,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:40.518754+00:00",
+"2023-08-07T17:41:40.518754Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-1200s-31_ecephys.nwb",
 "size":
@@ -602,7 +602,7 @@
 "blob":
 "581b51d0-7416-4eb6-81d3-1ba572d027cf",
 "created":
-"2023-08-07T17:41:30.509075+00:00",
+"2023-08-07T17:41:30.509075Z",
 "metadata":
 {
 "@context":
@@ -789,7 +789,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:30.509093+00:00",
+"2023-08-07T17:41:30.509093Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-600s-11_ecephys.nwb",
 "size":
@@ -801,7 +801,7 @@
 "blob":
 "63c925ad-6b8f-4577-b475-2e6632931e92",
 "created":
-"2023-08-07T17:41:26.596905+00:00",
+"2023-08-07T17:41:26.596905Z",
 "metadata":
 {
 "@context":
@@ -988,7 +988,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:26.596928+00:00",
+"2023-08-07T17:41:26.596928Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-600s-12_ecephys.nwb",
 "size":
@@ -1000,7 +1000,7 @@
 "blob":
 "efcb38a8-39c2-4595-92e1-0a1ecbf301ee",
 "created":
-"2023-08-07T17:41:32.289111+00:00",
+"2023-08-07T17:41:32.289111Z",
 "metadata":
 {
 "@context":
@@ -1187,7 +1187,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:32.289133+00:00",
+"2023-08-07T17:41:32.289133Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-600s-21_ecephys.nwb",
 "size":
@@ -1199,7 +1199,7 @@
 "blob":
 "5fa4fe22-d7ab-4f14-af7a-41759c707a48",
 "created":
-"2023-08-07T17:41:42.878336+00:00",
+"2023-08-07T17:41:42.878336Z",
 "metadata":
 {
 "@context":
@@ -1386,7 +1386,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:42.878353+00:00",
+"2023-08-07T17:41:42.878353Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-600s-22_ecephys.nwb",
 "size":
@@ -1398,7 +1398,7 @@
 "blob":
 "29824862-2817-462c-a761-be95d4fe2f4d",
 "created":
-"2023-08-07T17:41:45.751723+00:00",
+"2023-08-07T17:41:45.751723Z",
 "metadata":
 {
 "@context":
@@ -1585,7 +1585,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:45.751741+00:00",
+"2023-08-07T17:41:45.751741Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-600s-31_ecephys.nwb",
 "size":
@@ -1597,7 +1597,7 @@
 "blob":
 "381e089f-90a3-4efe-a483-9a8dee792f63",
 "created":
-"2023-08-07T17:41:50.274052+00:00",
+"2023-08-07T17:41:50.274052Z",
 "metadata":
 {
 "@context":
@@ -1784,7 +1784,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:50.274075+00:00",
+"2023-08-07T17:41:50.274075Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-16c-600s-32_ecephys.nwb",
 "size":
@@ -1796,7 +1796,7 @@
 "blob":
 "488064ee-30ef-4f28-812e-84a304ef2cb2",
 "created":
-"2023-08-07T17:42:06.391088+00:00",
+"2023-08-07T17:42:06.391088Z",
 "metadata":
 {
 "@context":
@@ -1983,7 +1983,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:06.391111+00:00",
+"2023-08-07T17:42:06.391111Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-1200s-11_ecephys.nwb",
 "size":
@@ -1995,7 +1995,7 @@
 "blob":
 "fd2c5378-174d-4341-91fd-2b18ade9fd23",
 "created":
-"2023-08-07T17:42:08.980845+00:00",
+"2023-08-07T17:42:08.980845Z",
 "metadata":
 {
 "@context":
@@ -2182,7 +2182,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:08.980866+00:00",
+"2023-08-07T17:42:08.980866Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-1200s-21_ecephys.nwb",
 "size":
@@ -2194,7 +2194,7 @@
 "blob":
 "4e9ab9fb-4b09-46cb-ba21-fd3e09394a8a",
 "created":
-"2023-08-07T17:42:04.818145+00:00",
+"2023-08-07T17:42:04.818145Z",
 "metadata":
 {
 "@context":
@@ -2381,7 +2381,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:04.818170+00:00",
+"2023-08-07T17:42:04.818170Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-1200s-31_ecephys.nwb",
 "size":
@@ -2393,7 +2393,7 @@
 "blob":
 "245af899-7791-401b-ac0b-c30eaf2863b7",
 "created":
-"2023-08-07T17:41:54.993193+00:00",
+"2023-08-07T17:41:54.993193Z",
 "metadata":
 {
 "@context":
@@ -2580,7 +2580,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:41:54.993217+00:00",
+"2023-08-07T17:41:54.993217Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-11_ecephys.nwb",
 "size":
@@ -2592,7 +2592,7 @@
 "blob":
 "4724b07a-6711-46f1-a4cf-f0f9fc8cdf0f",
 "created":
-"2023-08-07T17:42:04.889958+00:00",
+"2023-08-07T17:42:04.889958Z",
 "metadata":
 {
 "@context":
@@ -2779,7 +2779,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:04.889976+00:00",
+"2023-08-07T17:42:04.889976Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-12_ecephys.nwb",
 "size":
@@ -2791,7 +2791,7 @@
 "blob":
 "9ad7470c-c48e-4123-9577-127a8b117940",
 "created":
-"2023-08-07T17:42:10.576556+00:00",
+"2023-08-07T17:42:10.576556Z",
 "metadata":
 {
 "@context":
@@ -2978,7 +2978,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:10.576578+00:00",
+"2023-08-07T17:42:10.576578Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-21_ecephys.nwb",
 "size":
@@ -2990,7 +2990,7 @@
 "blob":
 "ef14badb-a2cf-46d1-be15-28b6a239c434",
 "created":
-"2023-08-07T17:42:20.737194+00:00",
+"2023-08-07T17:42:20.737194Z",
 "metadata":
 {
 "@context":
@@ -3177,7 +3177,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:20.737217+00:00",
+"2023-08-07T17:42:20.737217Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-22_ecephys.nwb",
 "size":
@@ -3189,7 +3189,7 @@
 "blob":
 "84ee8df6-5054-469b-9d48-b3cf4ac50245",
 "created":
-"2023-08-07T17:42:22.540632+00:00",
+"2023-08-07T17:42:22.540632Z",
 "metadata":
 {
 "@context":
@@ -3376,7 +3376,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:22.540655+00:00",
+"2023-08-07T17:42:22.540655Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-31_ecephys.nwb",
 "size":
@@ -3388,7 +3388,7 @@
 "blob":
 "3c09d789-5a70-4eae-adb5-8e32f88e87cd",
 "created":
-"2023-08-07T17:42:26.142777+00:00",
+"2023-08-07T17:42:26.142777Z",
 "metadata":
 {
 "@context":
@@ -3575,7 +3575,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:26.142799+00:00",
+"2023-08-07T17:42:26.142799Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-32_ecephys.nwb",
 "size":
@@ -3587,7 +3587,7 @@
 "blob":
 "9172ead2-6d4d-458c-bc22-1453ff826fb1",
 "created":
-"2023-08-07T17:42:46.389354+00:00",
+"2023-08-07T17:42:46.389354Z",
 "metadata":
 {
 "@context":
@@ -3774,7 +3774,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:46.389372+00:00",
+"2023-08-07T17:42:46.389372Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-1200s-11_ecephys.nwb",
 "size":
@@ -3786,7 +3786,7 @@
 "blob":
 "db621271-43a6-4c5b-a3d5-492a1d5274d1",
 "created":
-"2023-08-07T17:42:36.114792+00:00",
+"2023-08-07T17:42:36.114792Z",
 "metadata":
 {
 "@context":
@@ -3973,7 +3973,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:36.114814+00:00",
+"2023-08-07T17:42:36.114814Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-600s-11_ecephys.nwb",
 "size":
@@ -3985,7 +3985,7 @@
 "blob":
 "b161b17e-4540-4e87-8d30-fe09cd80f0f0",
 "created":
-"2023-08-07T17:42:37.697167+00:00",
+"2023-08-07T17:42:37.697167Z",
 "metadata":
 {
 "@context":
@@ -4172,7 +4172,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:37.697191+00:00",
+"2023-08-07T17:42:37.697191Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-600s-12_ecephys.nwb",
 "size":
@@ -4184,7 +4184,7 @@
 "blob":
 "149bef66-06f8-408d-a1b7-54d9a9587b32",
 "created":
-"2023-08-07T17:42:30.054964+00:00",
+"2023-08-07T17:42:30.054964Z",
 "metadata":
 {
 "@context":
@@ -4371,7 +4371,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:30.054984+00:00",
+"2023-08-07T17:42:30.054984Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-1200s-11_ecephys.nwb",
 "size":
@@ -4383,7 +4383,7 @@
 "blob":
 "6688c923-ddd0-4f81-9adf-9c87380c85a1",
 "created":
-"2023-08-07T17:42:40.490829+00:00",
+"2023-08-07T17:42:40.490829Z",
 "metadata":
 {
 "@context":
@@ -4570,7 +4570,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:40.490853+00:00",
+"2023-08-07T17:42:40.490853Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-1200s-21_ecephys.nwb",
 "size":
@@ -4582,7 +4582,7 @@
 "blob":
 "6c6e1a24-f2d0-42f5-9bda-dac36e3a3558",
 "created":
-"2023-08-07T17:42:43.684616+00:00",
+"2023-08-07T17:42:43.684616Z",
 "metadata":
 {
 "@context":
@@ -4769,7 +4769,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:43.684653+00:00",
+"2023-08-07T17:42:43.684653Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-1200s-31_ecephys.nwb",
 "size":
@@ -4781,7 +4781,7 @@
 "blob":
 "c37cf928-76d1-4a36-9374-fcc86a49d5e7",
 "created":
-"2023-08-07T17:42:45.738503+00:00",
+"2023-08-07T17:42:45.738503Z",
 "metadata":
 {
 "@context":
@@ -4968,7 +4968,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:45.738527+00:00",
+"2023-08-07T17:42:45.738527Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-11_ecephys.nwb",
 "size":
@@ -4980,7 +4980,7 @@
 "blob":
 "ba340105-9111-45b5-9588-8784202cc8b9",
 "created":
-"2023-08-07T17:42:47.087213+00:00",
+"2023-08-07T17:42:47.087213Z",
 "metadata":
 {
 "@context":
@@ -5167,7 +5167,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:47.087232+00:00",
+"2023-08-07T17:42:47.087232Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-12_ecephys.nwb",
 "size":
@@ -5179,7 +5179,7 @@
 "blob":
 "959b9ff8-91c0-4cfa-8c19-202e1f063960",
 "created":
-"2023-08-07T17:42:48.350414+00:00",
+"2023-08-07T17:42:48.350414Z",
 "metadata":
 {
 "@context":
@@ -5366,7 +5366,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:48.350438+00:00",
+"2023-08-07T17:42:48.350438Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-21_ecephys.nwb",
 "size":
@@ -5378,7 +5378,7 @@
 "blob":
 "21069fcd-448b-4208-b14e-796cecf61470",
 "created":
-"2023-08-07T17:42:52.578480+00:00",
+"2023-08-07T17:42:52.578480Z",
 "metadata":
 {
 "@context":
@@ -5565,7 +5565,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:52.578501+00:00",
+"2023-08-07T17:42:52.578501Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-22_ecephys.nwb",
 "size":
@@ -5577,7 +5577,7 @@
 "blob":
 "81d479fd-ee63-4161-8e4a-c38c0d4167ba",
 "created":
-"2023-08-07T17:42:55.047421+00:00",
+"2023-08-07T17:42:55.047421Z",
 "metadata":
 {
 "@context":
@@ -5764,7 +5764,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:55.047444+00:00",
+"2023-08-07T17:42:55.047444Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-31_ecephys.nwb",
 "size":
@@ -5776,7 +5776,7 @@
 "blob":
 "c1062239-b58c-4ff7-b246-3fb13ff33f2c",
 "created":
-"2023-08-07T17:42:54.414625+00:00",
+"2023-08-07T17:42:54.414625Z",
 "metadata":
 {
 "@context":
@@ -5963,7 +5963,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:42:54.414648+00:00",
+"2023-08-07T17:42:54.414648Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-32_ecephys.nwb",
 "size":
@@ -5975,7 +5975,7 @@
 "blob":
 "87250f3b-d5f5-47b2-b5a9-427e02584af0",
 "created":
-"2023-08-07T17:43:00.563059+00:00",
+"2023-08-07T17:43:00.563059Z",
 "metadata":
 {
 "@context":
@@ -6162,7 +6162,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:00.563083+00:00",
+"2023-08-07T17:43:00.563083Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-1200s-11_ecephys.nwb",
 "size":
@@ -6174,7 +6174,7 @@
 "blob":
 "91e87474-6dca-4783-8614-68d2807dd0cf",
 "created":
-"2023-08-07T17:43:04.922667+00:00",
+"2023-08-07T17:43:04.922667Z",
 "metadata":
 {
 "@context":
@@ -6361,7 +6361,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:04.922690+00:00",
+"2023-08-07T17:43:04.922690Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-1200s-21_ecephys.nwb",
 "size":
@@ -6373,7 +6373,7 @@
 "blob":
 "99303e02-52de-4b05-a5ad-73f922706f7a",
 "created":
-"2023-08-07T17:43:09.137141+00:00",
+"2023-08-07T17:43:09.137141Z",
 "metadata":
 {
 "@context":
@@ -6560,7 +6560,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:09.137191+00:00",
+"2023-08-07T17:43:09.137191Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-1200s-31_ecephys.nwb",
 "size":
@@ -6572,7 +6572,7 @@
 "blob":
 "0e1b76e0-83f9-4f17-8e91-2fac7ff4b840",
 "created":
-"2023-08-07T17:43:06.200354+00:00",
+"2023-08-07T17:43:06.200354Z",
 "metadata":
 {
 "@context":
@@ -6759,7 +6759,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:06.200377+00:00",
+"2023-08-07T17:43:06.200377Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-11_ecephys.nwb",
 "size":
@@ -6771,7 +6771,7 @@
 "blob":
 "1c9f26c0-0b7e-43c0-a2a8-0b68993fb61a",
 "created":
-"2023-08-07T17:43:06.999780+00:00",
+"2023-08-07T17:43:06.999780Z",
 "metadata":
 {
 "@context":
@@ -6958,7 +6958,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:06.999801+00:00",
+"2023-08-07T17:43:06.999801Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-12_ecephys.nwb",
 "size":
@@ -6970,7 +6970,7 @@
 "blob":
 "9423d5d8-aa92-4b75-8e78-e09b22b91431",
 "created":
-"2023-08-07T17:43:16.412166+00:00",
+"2023-08-07T17:43:16.412166Z",
 "metadata":
 {
 "@context":
@@ -7157,7 +7157,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:16.412189+00:00",
+"2023-08-07T17:43:16.412189Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-21_ecephys.nwb",
 "size":
@@ -7169,7 +7169,7 @@
 "blob":
 "793310e9-08a1-4bdf-b637-671f494f244c",
 "created":
-"2023-08-07T17:43:17.347262+00:00",
+"2023-08-07T17:43:17.347262Z",
 "metadata":
 {
 "@context":
@@ -7356,7 +7356,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:17.347282+00:00",
+"2023-08-07T17:43:17.347282Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-22_ecephys.nwb",
 "size":
@@ -7368,7 +7368,7 @@
 "blob":
 "0ac96969-e8fd-456e-9267-cfe87a5da331",
 "created":
-"2023-08-07T17:43:21.574278+00:00",
+"2023-08-07T17:43:21.574278Z",
 "metadata":
 {
 "@context":
@@ -7555,7 +7555,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:21.574298+00:00",
+"2023-08-07T17:43:21.574298Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-31_ecephys.nwb",
 "size":
@@ -7567,7 +7567,7 @@
 "blob":
 "3bff5251-ad7c-4665-bc6d-e4d06daae618",
 "created":
-"2023-08-07T17:43:19.664266+00:00",
+"2023-08-07T17:43:19.664266Z",
 "metadata":
 {
 "@context":
@@ -7754,7 +7754,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:19.664288+00:00",
+"2023-08-07T17:43:19.664288Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-32_ecephys.nwb",
 "size":
@@ -7766,7 +7766,7 @@
 "blob":
 "aa04820b-816a-45da-88ab-84fba908e77b",
 "created":
-"2023-08-07T17:43:34.177009+00:00",
+"2023-08-07T17:43:34.177009Z",
 "metadata":
 {
 "@context":
@@ -7953,7 +7953,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:34.177031+00:00",
+"2023-08-07T17:43:34.177031Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-1200s-11_ecephys.nwb",
 "size":
@@ -7965,7 +7965,7 @@
 "blob":
 "865534ef-45e5-4edf-958c-8b52c9ad33c2",
 "created":
-"2023-08-07T17:43:45.555125+00:00",
+"2023-08-07T17:43:45.555125Z",
 "metadata":
 {
 "@context":
@@ -8152,7 +8152,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:45.555143+00:00",
+"2023-08-07T17:43:45.555143Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-1200s-21_ecephys.nwb",
 "size":
@@ -8164,7 +8164,7 @@
 "blob":
 "0a6f365e-4867-42bd-87d7-d0b7a3e62c48",
 "created":
-"2023-08-07T17:43:49.857611+00:00",
+"2023-08-07T17:43:49.857611Z",
 "metadata":
 {
 "@context":
@@ -8351,7 +8351,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:49.857630+00:00",
+"2023-08-07T17:43:49.857630Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-1200s-31_ecephys.nwb",
 "size":
@@ -8363,7 +8363,7 @@
 "blob":
 "efcdab37-1d8b-4a53-80d3-9a40bd4766a8",
 "created":
-"2023-08-07T17:43:35.172883+00:00",
+"2023-08-07T17:43:35.172883Z",
 "metadata":
 {
 "@context":
@@ -8550,7 +8550,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:35.172900+00:00",
+"2023-08-07T17:43:35.172900Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-11_ecephys.nwb",
 "size":
@@ -8562,7 +8562,7 @@
 "blob":
 "7d404e24-ebe3-41af-867d-39b1992e6481",
 "created":
-"2023-08-07T17:43:41.277422+00:00",
+"2023-08-07T17:43:41.277422Z",
 "metadata":
 {
 "@context":
@@ -8749,7 +8749,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:41.277445+00:00",
+"2023-08-07T17:43:41.277445Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-12_ecephys.nwb",
 "size":
@@ -8761,7 +8761,7 @@
 "blob":
 "d5c8aa7e-96d3-4bb0-bc6b-fc3fcd5db848",
 "created":
-"2023-08-07T17:43:55.322479+00:00",
+"2023-08-07T17:43:55.322479Z",
 "metadata":
 {
 "@context":
@@ -8948,7 +8948,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:55.322496+00:00",
+"2023-08-07T17:43:55.322496Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-21_ecephys.nwb",
 "size":
@@ -8960,7 +8960,7 @@
 "blob":
 "f52f8dd0-2b87-4aec-bdb3-9b6bcf502346",
 "created":
-"2023-08-07T17:43:53.712912+00:00",
+"2023-08-07T17:43:53.712912Z",
 "metadata":
 {
 "@context":
@@ -9147,7 +9147,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:43:53.712930+00:00",
+"2023-08-07T17:43:53.712930Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-22_ecephys.nwb",
 "size":
@@ -9159,7 +9159,7 @@
 "blob":
 "34e975f3-9822-45d5-baa7-284ed59a3d61",
 "created":
-"2023-08-07T17:44:00.434934+00:00",
+"2023-08-07T17:44:00.434934Z",
 "metadata":
 {
 "@context":
@@ -9346,7 +9346,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:00.434957+00:00",
+"2023-08-07T17:44:00.434957Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-31_ecephys.nwb",
 "size":
@@ -9358,7 +9358,7 @@
 "blob":
 "69bd3b35-5359-4f51-8839-663afd937f3d",
 "created":
-"2023-08-07T17:44:06.371841+00:00",
+"2023-08-07T17:44:06.371841Z",
 "metadata":
 {
 "@context":
@@ -9545,7 +9545,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:06.371859+00:00",
+"2023-08-07T17:44:06.371859Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-32_ecephys.nwb",
 "size":
@@ -9557,7 +9557,7 @@
 "blob":
 "e9978caa-b841-4bad-83d6-aca529a078b3",
 "created":
-"2023-08-07T17:44:36.514282+00:00",
+"2023-08-07T17:44:36.514282Z",
 "metadata":
 {
 "@context":
@@ -9744,7 +9744,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:36.514304+00:00",
+"2023-08-07T17:44:36.514304Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-1200s-11_ecephys.nwb",
 "size":
@@ -9756,7 +9756,7 @@
 "blob":
 "2c112080-a0ab-49fe-9e3e-c19cef5c9848",
 "created":
-"2023-08-07T17:44:22.181039+00:00",
+"2023-08-07T17:44:22.181039Z",
 "metadata":
 {
 "@context":
@@ -9943,7 +9943,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:22.181060+00:00",
+"2023-08-07T17:44:22.181060Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-600s-11_ecephys.nwb",
 "size":
@@ -9955,7 +9955,7 @@
 "blob":
 "bbc1514f-3c53-4a47-9715-b50640c45685",
 "created":
-"2023-08-07T17:44:11.008150+00:00",
+"2023-08-07T17:44:11.008150Z",
 "metadata":
 {
 "@context":
@@ -10142,7 +10142,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:11.008167+00:00",
+"2023-08-07T17:44:11.008167Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-600s-12_ecephys.nwb",
 "size":
@@ -10154,7 +10154,7 @@
 "blob":
 "04c53171-6ce2-4908-9ab6-7bf0c68c5086",
 "created":
-"2023-08-07T17:44:06.608923+00:00",
+"2023-08-07T17:44:06.608923Z",
 "metadata":
 {
 "@context":
@@ -10341,7 +10341,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:06.608944+00:00",
+"2023-08-07T17:44:06.608944Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-11_ecephys.nwb",
 "size":
@@ -10353,7 +10353,7 @@
 "blob":
 "e40d1ca9-c23f-4219-8109-3d572603622f",
 "created":
-"2023-08-07T17:44:17.865472+00:00",
+"2023-08-07T17:44:17.865472Z",
 "metadata":
 {
 "@context":
@@ -10540,7 +10540,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:17.865489+00:00",
+"2023-08-07T17:44:17.865489Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-21_ecephys.nwb",
 "size":
@@ -10552,7 +10552,7 @@
 "blob":
 "c2b8860f-0bcc-486a-8eb7-aca2ca9fce23",
 "created":
-"2023-08-07T17:44:16.063933+00:00",
+"2023-08-07T17:44:16.063933Z",
 "metadata":
 {
 "@context":
@@ -10739,7 +10739,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:16.063950+00:00",
+"2023-08-07T17:44:16.063950Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-31_ecephys.nwb",
 "size":
@@ -10751,7 +10751,7 @@
 "blob":
 "b96da7d5-d0e0-44c5-8f35-66896cfd7b72",
 "created":
-"2023-08-07T17:44:16.121689+00:00",
+"2023-08-07T17:44:16.121689Z",
 "metadata":
 {
 "@context":
@@ -10938,7 +10938,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:16.121704+00:00",
+"2023-08-07T17:44:16.121704Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-11_ecephys.nwb",
 "size":
@@ -10950,7 +10950,7 @@
 "blob":
 "fffb6521-0a29-4063-8d25-7a6f73ca604e",
 "created":
-"2023-08-07T17:44:27.431434+00:00",
+"2023-08-07T17:44:27.431434Z",
 "metadata":
 {
 "@context":
@@ -11137,7 +11137,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:27.431454+00:00",
+"2023-08-07T17:44:27.431454Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-12_ecephys.nwb",
 "size":
@@ -11149,7 +11149,7 @@
 "blob":
 "4b466757-aabc-4650-afa1-28cbca69576c",
 "created":
-"2023-08-07T17:44:27.381087+00:00",
+"2023-08-07T17:44:27.381087Z",
 "metadata":
 {
 "@context":
@@ -11336,7 +11336,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:27.381111+00:00",
+"2023-08-07T17:44:27.381111Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-21_ecephys.nwb",
 "size":
@@ -11348,7 +11348,7 @@
 "blob":
 "71d362f7-d9f1-4bdd-bb64-b6c1873c8313",
 "created":
-"2023-08-07T17:44:26.036430+00:00",
+"2023-08-07T17:44:26.036430Z",
 "metadata":
 {
 "@context":
@@ -11535,7 +11535,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:26.036449+00:00",
+"2023-08-07T17:44:26.036449Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-22_ecephys.nwb",
 "size":
@@ -11547,7 +11547,7 @@
 "blob":
 "37e80aea-d980-4ee6-87ae-e333ab8d1879",
 "created":
-"2023-08-07T17:44:32.043727+00:00",
+"2023-08-07T17:44:32.043727Z",
 "metadata":
 {
 "@context":
@@ -11734,7 +11734,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:32.043746+00:00",
+"2023-08-07T17:44:32.043746Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-31_ecephys.nwb",
 "size":
@@ -11746,7 +11746,7 @@
 "blob":
 "e116b5c2-2029-4777-8371-167f9925d538",
 "created":
-"2023-08-07T17:44:40.711450+00:00",
+"2023-08-07T17:44:40.711450Z",
 "metadata":
 {
 "@context":
@@ -11933,7 +11933,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:44:40.711472+00:00",
+"2023-08-07T17:44:40.711472Z",
 "path":
 "sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-32_ecephys.nwb",
 "size":
@@ -11945,7 +11945,7 @@
 "blob":
 "02c8ff72-8f8f-4a59-9196-f8ca61bd233c",
 "created":
-"2023-08-07T17:20:18.271288+00:00",
+"2023-08-07T17:20:18.271288Z",
 "metadata":
 {
 "@context":
@@ -12135,7 +12135,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:20:18.316406+00:00",
+"2023-08-07T17:20:18.316406Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-1103-1-1_ecephys.nwb",
 "size":
@@ -12147,7 +12147,7 @@
 "blob":
 "09a438ea-11f0-4dba-88fd-b4f2674da908",
 "created":
-"2023-08-07T17:20:18.816668+00:00",
+"2023-08-07T17:20:18.816668Z",
 "metadata":
 {
 "@context":
@@ -12337,7 +12337,7 @@
 ]
 },
 "modified":
-"2023-08-07T17:20:18.860337+00:00",
+"2023-08-07T17:20:18.860337Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-419-1-7_ecephys.nwb",
 "size":
@@ -12349,7 +12349,7 @@
 "blob":
 "ed7da395-5674-49ba-8d04-7355014a1aee",
 "created":
-"2023-08-04T15:28:01.636039+00:00",
+"2023-08-04T15:28:01.636039Z",
 "metadata":
 {
 "@context":
@@ -12539,7 +12539,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:01.636057+00:00",
+"2023-08-04T15:28:01.636057Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-419-1-8_ecephys.nwb",
 "size":
@@ -12551,7 +12551,7 @@
 "blob":
 "dd73f62e-ee9a-49cd-8e52-70a6198cca77",
 "created":
-"2023-08-04T15:28:04.345716+00:00",
+"2023-08-04T15:28:04.345716Z",
 "metadata":
 {
 "@context":
@@ -12741,7 +12741,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:04.345740+00:00",
+"2023-08-04T15:28:04.345740Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-509-1-1_ecephys.nwb",
 "size":
@@ -12753,7 +12753,7 @@
 "blob":
 "3718972d-9245-47aa-aab3-533242c355a5",
 "created":
-"2023-08-04T15:28:03.037794+00:00",
+"2023-08-04T15:28:03.037794Z",
 "metadata":
 {
 "@context":
@@ -12943,7 +12943,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:03.037815+00:00",
+"2023-08-04T15:28:03.037815Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-509-1-2_ecephys.nwb",
 "size":
@@ -12955,7 +12955,7 @@
 "blob":
 "070f7a04-eded-4817-af01-e0dbfc6156cf",
 "created":
-"2023-08-04T15:28:11.563974+00:00",
+"2023-08-04T15:28:11.563974Z",
 "metadata":
 {
 "@context":
@@ -13145,7 +13145,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:11.563995+00:00",
+"2023-08-04T15:28:11.563995Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-513-1-1_ecephys.nwb",
 "size":
@@ -13157,7 +13157,7 @@
 "blob":
 "b0bed166-3c84-4cfd-b642-a07953d8a9e9",
 "created":
-"2023-08-04T15:28:13.706857+00:00",
+"2023-08-04T15:28:13.706857Z",
 "metadata":
 {
 "@context":
@@ -13347,7 +13347,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:13.706877+00:00",
+"2023-08-04T15:28:13.706877Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-513-1-2_ecephys.nwb",
 "size":
@@ -13359,7 +13359,7 @@
 "blob":
 "266c151c-f103-497f-9313-d262fa97810d",
 "created":
-"2023-08-04T15:28:16.578172+00:00",
+"2023-08-04T15:28:16.578172Z",
 "metadata":
 {
 "@context":
@@ -13549,7 +13549,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:16.578190+00:00",
+"2023-08-04T15:28:16.578190Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-513-2-2_ecephys.nwb",
 "size":
@@ -13561,7 +13561,7 @@
 "blob":
 "ebf0c12a-b251-46b6-9612-1a66010b94ee",
 "created":
-"2023-08-04T15:28:17.004826+00:00",
+"2023-08-04T15:28:17.004826Z",
 "metadata":
 {
 "@context":
@@ -13751,7 +13751,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:17.004844+00:00",
+"2023-08-04T15:28:17.004844Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-513-2-3_ecephys.nwb",
 "size":
@@ -13763,7 +13763,7 @@
 "blob":
 "4fb81aec-cc64-4339-813e-5d915ad9adfe",
 "created":
-"2023-08-04T15:28:17.852085+00:00",
+"2023-08-04T15:28:17.852085Z",
 "metadata":
 {
 "@context":
@@ -13953,7 +13953,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:17.852108+00:00",
+"2023-08-04T15:28:17.852108Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-531-2-1_ecephys.nwb",
 "size":
@@ -13965,7 +13965,7 @@
 "blob":
 "b1830b0a-bde5-4029-a185-355a6669e317",
 "created":
-"2023-08-04T15:28:25.938275+00:00",
+"2023-08-04T15:28:25.938275Z",
 "metadata":
 {
 "@context":
@@ -14155,7 +14155,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:25.938300+00:00",
+"2023-08-04T15:28:25.938300Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-531-2-2_ecephys.nwb",
 "size":
@@ -14167,7 +14167,7 @@
 "blob":
 "4001733b-d6a9-4b40-9cd2-91b78aa4510d",
 "created":
-"2023-08-04T15:28:27.753634+00:00",
+"2023-08-04T15:28:27.753634Z",
 "metadata":
 {
 "@context":
@@ -14357,7 +14357,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:27.753653+00:00",
+"2023-08-04T15:28:27.753653Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-624-2-1_ecephys.nwb",
 "size":
@@ -14369,7 +14369,7 @@
 "blob":
 "fa873f9d-2058-4ef1-9bcb-6dbaf29b1cdc",
 "created":
-"2023-08-04T15:28:30.568779+00:00",
+"2023-08-04T15:28:30.568779Z",
 "metadata":
 {
 "@context":
@@ -14559,7 +14559,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:30.568802+00:00",
+"2023-08-04T15:28:30.568802Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-624-2-2_ecephys.nwb",
 "size":
@@ -14571,7 +14571,7 @@
 "blob":
 "47521edf-85e9-4ca4-968d-d97f8c1c5999",
 "created":
-"2023-08-04T15:28:31.912809+00:00",
+"2023-08-04T15:28:31.912809Z",
 "metadata":
 {
 "@context":
@@ -14761,7 +14761,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:31.912835+00:00",
+"2023-08-04T15:28:31.912835Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-624-5-1_ecephys.nwb",
 "size":
@@ -14773,7 +14773,7 @@
 "blob":
 "5580ddd7-ebec-45f6-a102-078f4222f8c1",
 "created":
-"2023-08-04T15:28:32.319873+00:00",
+"2023-08-04T15:28:32.319873Z",
 "metadata":
 {
 "@context":
@@ -14963,7 +14963,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:32.319916+00:00",
+"2023-08-04T15:28:32.319916Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-624-5-2_ecephys.nwb",
 "size":
@@ -14975,7 +14975,7 @@
 "blob":
 "426c5506-227a-4f50-be50-a3b9cf3e14cd",
 "created":
-"2023-08-04T15:28:36.885574+00:00",
+"2023-08-04T15:28:36.885574Z",
 "metadata":
 {
 "@context":
@@ -15165,7 +15165,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:36.885597+00:00",
+"2023-08-04T15:28:36.885597Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-915-10-1_ecephys.nwb",
 "size":
@@ -15177,7 +15177,7 @@
 "blob":
 "9551a97f-58c8-4653-8d67-7ef22e2f3678",
 "created":
-"2023-08-04T15:28:39.525032+00:00",
+"2023-08-04T15:28:39.525032Z",
 "metadata":
 {
 "@context":
@@ -15367,7 +15367,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:39.525050+00:00",
+"2023-08-04T15:28:39.525050Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-915-17-1_ecephys.nwb",
 "size":
@@ -15379,7 +15379,7 @@
 "blob":
 "2a9701fa-bca7-44b9-bbe9-293f45f40a8b",
 "created":
-"2023-08-04T15:28:41.013609+00:00",
+"2023-08-04T15:28:41.013609Z",
 "metadata":
 {
 "@context":
@@ -15569,7 +15569,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:41.013643+00:00",
+"2023-08-04T15:28:41.013643Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-915-18-1_ecephys.nwb",
 "size":
@@ -15581,7 +15581,7 @@
 "blob":
 "a836b78f-e323-40b7-ad57-bc05041a23df",
 "created":
-"2023-08-04T15:28:43.970611+00:00",
+"2023-08-04T15:28:43.970611Z",
 "metadata":
 {
 "@context":
@@ -15771,7 +15771,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:43.970629+00:00",
+"2023-08-04T15:28:43.970629Z",
 "path":
 "sub-paired-boyden/sub-paired-boyden_ses-paired-boyden32c-915-8-1_ecephys.nwb",
 "size":
@@ -15783,7 +15783,7 @@
 "blob":
 "a4c525eb-8f49-4161-a56a-ca0e99bedfbb",
 "created":
-"2023-08-04T15:28:46.895616+00:00",
+"2023-08-04T15:28:46.895616Z",
 "metadata":
 {
 "@context":
@@ -15971,7 +15971,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:46.895639+00:00",
+"2023-08-04T15:28:46.895639Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m108-191125-163508_ecephys.nwb",
 "size":
@@ -15983,7 +15983,7 @@
 "blob":
 "2107be22-cd8c-46d5-8e09-e165f535010b",
 "created":
-"2023-08-04T15:28:59.743208+00:00",
+"2023-08-04T15:28:59.743208Z",
 "metadata":
 {
 "@context":
@@ -16171,7 +16171,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:59.743250+00:00",
+"2023-08-04T15:28:59.743250Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m108-191125-171427_ecephys.nwb",
 "size":
@@ -16183,7 +16183,7 @@
 "blob":
 "7fc6e759-5ab7-4b4d-a0c0-5d2a83b930f9",
 "created":
-"2023-08-04T15:28:50.115232+00:00",
+"2023-08-04T15:28:50.115232Z",
 "metadata":
 {
 "@context":
@@ -16371,7 +16371,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:50.115251+00:00",
+"2023-08-04T15:28:50.115251Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m113-191125-204935_ecephys.nwb",
 "size":
@@ -16383,7 +16383,7 @@
 "blob":
 "823827a9-507f-4e14-a3b9-4ef3d18aa0ef",
 "created":
-"2023-08-04T15:28:57.791062+00:00",
+"2023-08-04T15:28:57.791062Z",
 "metadata":
 {
 "@context":
@@ -16571,7 +16571,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:57.791111+00:00",
+"2023-08-04T15:28:57.791111Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m113-191125-213423_ecephys.nwb",
 "size":
@@ -16583,7 +16583,7 @@
 "blob":
 "5737fc90-7833-45e7-811d-0d0c086e4457",
 "created":
-"2023-08-04T15:28:50.836006+00:00",
+"2023-08-04T15:28:50.836006Z",
 "metadata":
 {
 "@context":
@@ -16771,7 +16771,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:28:50.836027+00:00",
+"2023-08-04T15:28:50.836027Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m113-191125-235131_ecephys.nwb",
 "size":
@@ -16783,7 +16783,7 @@
 "blob":
 "884e4e43-271b-4553-901c-b210640ada6f",
 "created":
-"2023-08-04T15:29:10.240787+00:00",
+"2023-08-04T15:29:10.240787Z",
 "metadata":
 {
 "@context":
@@ -16971,7 +16971,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:10.240805+00:00",
+"2023-08-04T15:29:10.240805Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-191955_ecephys.nwb",
 "size":
@@ -16983,7 +16983,7 @@
 "blob":
 "4aa744b0-ccda-431b-8491-c5eaba267b49",
 "created":
-"2023-08-04T15:29:00.569666+00:00",
+"2023-08-04T15:29:00.569666Z",
 "metadata":
 {
 "@context":
@@ -17171,7 +17171,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:00.569684+00:00",
+"2023-08-04T15:29:00.569684Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-195433_ecephys.nwb",
 "size":
@@ -17183,7 +17183,7 @@
 "blob":
 "6c9cebb0-fc2b-45fa-b028-28965a9399ff",
 "created":
-"2023-08-04T15:29:07.358073+00:00",
+"2023-08-04T15:29:07.358073Z",
 "metadata":
 {
 "@context":
@@ -17371,7 +17371,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:07.358092+00:00",
+"2023-08-04T15:29:07.358092Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-201701_ecephys.nwb",
 "size":
@@ -17383,7 +17383,7 @@
 "blob":
 "5a9f868b-2ba2-46aa-8a74-e6778ddcabd9",
 "created":
-"2023-08-04T15:29:11.186836+00:00",
+"2023-08-04T15:29:11.186836Z",
 "metadata":
 {
 "@context":
@@ -17571,7 +17571,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:11.186856+00:00",
+"2023-08-04T15:29:11.186856Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-205038_ecephys.nwb",
 "size":
@@ -17583,7 +17583,7 @@
 "blob":
 "382cf4cd-66f1-442b-be57-5977a3e94471",
 "created":
-"2023-08-04T15:29:46.224142+00:00",
+"2023-08-04T15:29:46.224142Z",
 "metadata":
 {
 "@context":
@@ -17771,7 +17771,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:46.224165+00:00",
+"2023-08-04T15:29:46.224165Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-214225_ecephys.nwb",
 "size":
@@ -17783,7 +17783,7 @@
 "blob":
 "33351dba-31c0-450e-bbc4-d92cfa04cff8",
 "created":
-"2023-08-09T19:50:59.628719+00:00",
+"2023-08-09T19:50:59.628719Z",
 "metadata":
 {
 "@context":
@@ -17959,7 +17959,7 @@
 ]
 },
 "modified":
-"2023-08-09T19:50:59.649614+00:00",
+"2023-08-09T19:50:59.649614Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-222743_desc-ms5-units_ecephys.nwb",
 "size":
@@ -17971,7 +17971,7 @@
 "blob":
 "0e1534a8-7d31-49d6-a926-27c0ee56dee4",
 "created":
-"2023-08-04T15:29:35.272666+00:00",
+"2023-08-04T15:29:35.272666Z",
 "metadata":
 {
 "@context":
@@ -18159,7 +18159,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:35.272685+00:00",
+"2023-08-04T15:29:35.272685Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-222743_ecephys.nwb",
 "size":
@@ -18171,7 +18171,7 @@
 "blob":
 "102be104-8de2-4355-891b-d10b8c99b9bd",
 "created":
-"2023-08-04T15:29:28.907402+00:00",
+"2023-08-04T15:29:28.907402Z",
 "metadata":
 {
 "@context":
@@ -18359,7 +18359,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:28.907425+00:00",
+"2023-08-04T15:29:28.907425Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-230220_ecephys.nwb",
 "size":
@@ -18371,7 +18371,7 @@
 "blob":
 "456dc80a-289d-4a9a-a12a-ce6492a90d45",
 "created":
-"2023-08-04T15:29:15.822269+00:00",
+"2023-08-04T15:29:15.822269Z",
 "metadata":
 {
 "@context":
@@ -18559,7 +18559,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:15.822293+00:00",
+"2023-08-04T15:29:15.822293Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m14-190326-155432_ecephys.nwb",
 "size":
@@ -18571,7 +18571,7 @@
 "blob":
 "ed74dbbd-3a7f-44a4-96fd-5cb226440399",
 "created":
-"2023-08-04T15:29:25.869607+00:00",
+"2023-08-04T15:29:25.869607Z",
 "metadata":
 {
 "@context":
@@ -18759,7 +18759,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:25.869625+00:00",
+"2023-08-04T15:29:25.869625Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m14-190326-160710-cell1_ecephys.nwb",
 "size":
@@ -18771,7 +18771,7 @@
 "blob":
 "8b94cdcc-a03b-45d3-8ecf-8fa65f483c8c",
 "created":
-"2023-08-04T15:29:30.431163+00:00",
+"2023-08-04T15:29:30.431163Z",
 "metadata":
 {
 "@context":
@@ -18959,7 +18959,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:30.431186+00:00",
+"2023-08-04T15:29:30.431186Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m15-190315-142052-cell1_ecephys.nwb",
 "size":
@@ -18971,7 +18971,7 @@
 "blob":
 "2850bca9-d4d3-4097-b090-beb42746547a",
 "created":
-"2023-08-04T15:29:38.332655+00:00",
+"2023-08-04T15:29:38.332655Z",
 "metadata":
 {
 "@context":
@@ -19159,7 +19159,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:38.332673+00:00",
+"2023-08-04T15:29:38.332673Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m15-190315-145422_ecephys.nwb",
 "size":
@@ -19171,7 +19171,7 @@
 "blob":
 "bedb8f84-08fe-4151-9fb3-0038d5240a05",
 "created":
-"2023-08-04T15:29:46.351808+00:00",
+"2023-08-04T15:29:46.351808Z",
 "metadata":
 {
 "@context":
@@ -19359,7 +19359,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:46.351918+00:00",
+"2023-08-04T15:29:46.351918Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m15-190315-150831-cell1_ecephys.nwb",
 "size":
@@ -19371,7 +19371,7 @@
 "blob":
 "2855ace6-156e-4c08-8e97-5db50aec6d8c",
 "created":
-"2023-08-04T15:29:47.853708+00:00",
+"2023-08-04T15:29:47.853708Z",
 "metadata":
 {
 "@context":
@@ -19559,7 +19559,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:47.853726+00:00",
+"2023-08-04T15:29:47.853726Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m15-190315-152315-cell1_ecephys.nwb",
 "size":
@@ -19571,7 +19571,7 @@
 "blob":
 "0cdb1ad6-4096-42d1-966f-b599ebc5480a",
 "created":
-"2023-08-04T15:29:41.954037+00:00",
+"2023-08-04T15:29:41.954037Z",
 "metadata":
 {
 "@context":
@@ -19759,7 +19759,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:41.954056+00:00",
+"2023-08-04T15:29:41.954056Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m26-190524-100859-cell1_ecephys.nwb",
 "size":
@@ -19771,7 +19771,7 @@
 "blob":
 "3e4e4472-42b7-423d-961f-4b20b63cc178",
 "created":
-"2023-08-04T15:29:43.882584+00:00",
+"2023-08-04T15:29:43.882584Z",
 "metadata":
 {
 "@context":
@@ -19959,7 +19959,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:43.882608+00:00",
+"2023-08-04T15:29:43.882608Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m26-190524-100859-cell2_ecephys.nwb",
 "size":
@@ -19971,7 +19971,7 @@
 "blob":
 "4c24bae8-66a8-4356-a4ac-eb29f9b690f5",
 "created":
-"2023-08-04T15:29:50.103949+00:00",
+"2023-08-04T15:29:50.103949Z",
 "metadata":
 {
 "@context":
@@ -20159,7 +20159,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:50.103985+00:00",
+"2023-08-04T15:29:50.103985Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m26-190524-100859-cell3_ecephys.nwb",
 "size":
@@ -20171,7 +20171,7 @@
 "blob":
 "d1ec2be9-6554-473e-bcbd-bced4e57b5a7",
 "created":
-"2023-08-04T15:30:02.483747+00:00",
+"2023-08-04T15:30:02.483747Z",
 "metadata":
 {
 "@context":
@@ -20359,7 +20359,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:02.483772+00:00",
+"2023-08-04T15:30:02.483772Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m52-190731-145204-cell1_ecephys.nwb",
 "size":
@@ -20371,7 +20371,7 @@
 "blob":
 "809d7f0d-1d36-45e7-aeae-0d17258b3251",
 "created":
-"2023-08-04T15:30:08.173058+00:00",
+"2023-08-04T15:30:08.173058Z",
 "metadata":
 {
 "@context":
@@ -20559,7 +20559,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:08.173083+00:00",
+"2023-08-04T15:30:08.173083Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m52-190731-145204-cell3_ecephys.nwb",
 "size":
@@ -20571,7 +20571,7 @@
 "blob":
 "9eb63a04-478a-412c-a244-6c8b39fd11c0",
 "created":
-"2023-08-04T15:29:54.488474+00:00",
+"2023-08-04T15:29:54.488474Z",
 "metadata":
 {
 "@context":
@@ -20759,7 +20759,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:29:54.488499+00:00",
+"2023-08-04T15:29:54.488499Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-141906_ecephys.nwb",
 "size":
@@ -20771,7 +20771,7 @@
 "blob":
 "21b7872b-e86d-4a03-94e3-2967ac96ca54",
 "created":
-"2023-08-04T15:30:05.973984+00:00",
+"2023-08-04T15:30:05.973984Z",
 "metadata":
 {
 "@context":
@@ -20959,7 +20959,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:05.974006+00:00",
+"2023-08-04T15:30:05.974006Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-145205_ecephys.nwb",
 "size":
@@ -20971,7 +20971,7 @@
 "blob":
 "b8ee0b7b-c548-4052-98c0-46ec4df80bc8",
 "created":
-"2023-08-04T15:30:06.410126+00:00",
+"2023-08-04T15:30:06.410126Z",
 "metadata":
 {
 "@context":
@@ -21159,7 +21159,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:06.410149+00:00",
+"2023-08-04T15:30:06.410149Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-153915_ecephys.nwb",
 "size":
@@ -21171,7 +21171,7 @@
 "blob":
 "f9e8361b-ecc3-4b70-925a-41d833999ef0",
 "created":
-"2023-08-04T15:30:05.888442+00:00",
+"2023-08-04T15:30:05.888442Z",
 "metadata":
 {
 "@context":
@@ -21359,7 +21359,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:05.888464+00:00",
+"2023-08-04T15:30:05.888464Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-160026_ecephys.nwb",
 "size":
@@ -21371,7 +21371,7 @@
 "blob":
 "c863f361-0ef5-4e7b-bb3a-4f3d22696fa9",
 "created":
-"2023-08-04T15:30:47.681842+00:00",
+"2023-08-04T15:30:47.681842Z",
 "metadata":
 {
 "@context":
@@ -21559,7 +21559,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:47.681867+00:00",
+"2023-08-04T15:30:47.681867Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-161455_ecephys.nwb",
 "size":
@@ -21571,7 +21571,7 @@
 "blob":
 "40806bf7-e436-4f39-9504-01ac8d4f5262",
 "created":
-"2023-08-04T15:30:19.928417+00:00",
+"2023-08-04T15:30:19.928417Z",
 "metadata":
 {
 "@context":
@@ -21759,7 +21759,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:19.928437+00:00",
+"2023-08-04T15:30:19.928437Z",
 "path":
 "sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-163645_ecephys.nwb",
 "size":
@@ -21771,7 +21771,7 @@
 "blob":
 "501653a9-7501-4272-b757-073e5dc54351",
 "created":
-"2023-08-04T15:30:24.043484+00:00",
+"2023-08-04T15:30:24.043484Z",
 "metadata":
 {
 "@context":
@@ -21961,7 +21961,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:24.126215+00:00",
+"2023-08-04T15:30:24.126215Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2014-11-25-Pair-3-0_ecephys.nwb",
 "size":
@@ -21973,7 +21973,7 @@
 "blob":
 "e4e897c9-36cb-4a5b-a587-cc3b4eaa68d4",
 "created":
-"2023-08-04T15:30:24.809676+00:00",
+"2023-08-04T15:30:24.809676Z",
 "metadata":
 {
 "@context":
@@ -22163,7 +22163,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:24.825642+00:00",
+"2023-08-04T15:30:24.825642Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2015-09-03-Pair-9-0A_ecephys.nwb",
 "size":
@@ -22175,7 +22175,7 @@
 "blob":
 "d5994875-1f47-49ac-9c6c-4b0c3d2d6242",
 "created":
-"2023-08-04T15:30:26.486325+00:00",
+"2023-08-04T15:30:26.486325Z",
 "metadata":
 {
 "@context":
@@ -22365,7 +22365,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:26.530738+00:00",
+"2023-08-04T15:30:26.530738Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2015-09-03-Pair-9-0B_ecephys.nwb",
 "size":
@@ -22377,7 +22377,7 @@
 "blob":
 "b592c43f-38cc-4d0c-b85f-4cae62dfd011",
 "created":
-"2023-08-04T15:30:40.618092+00:00",
+"2023-08-04T15:30:40.618092Z",
 "metadata":
 {
 "@context":
@@ -22567,7 +22567,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:40.631462+00:00",
+"2023-08-04T15:30:40.631462Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c14_ecephys.nwb",
 "size":
@@ -22579,7 +22579,7 @@
 "blob":
 "2c470e0d-bbc4-4b18-84f6-1cbfb8b2f0a2",
 "created":
-"2023-08-04T15:30:41.543586+00:00",
+"2023-08-04T15:30:41.543586Z",
 "metadata":
 {
 "@context":
@@ -22769,7 +22769,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:41.558058+00:00",
+"2023-08-04T15:30:41.558058Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c16_ecephys.nwb",
 "size":
@@ -22781,7 +22781,7 @@
 "blob":
 "ee66d120-b81b-46d5-91b4-7d29a775f375",
 "created":
-"2023-08-04T15:30:38.833494+00:00",
+"2023-08-04T15:30:38.833494Z",
 "metadata":
 {
 "@context":
@@ -22971,7 +22971,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:38.847954+00:00",
+"2023-08-04T15:30:38.847954Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c19_ecephys.nwb",
 "size":
@@ -22983,7 +22983,7 @@
 "blob":
 "7b5f7268-8f81-48d7-8ee1-9d374429a08c",
 "created":
-"2023-08-04T15:30:44.054351+00:00",
+"2023-08-04T15:30:44.054351Z",
 "metadata":
 {
 "@context":
@@ -23173,7 +23173,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:44.070507+00:00",
+"2023-08-04T15:30:44.070507Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c21_ecephys.nwb",
 "size":
@@ -23185,7 +23185,7 @@
 "blob":
 "5036b1ad-1d4c-467e-ac2d-738c15cbe2e1",
 "created":
-"2023-08-04T15:30:58.515287+00:00",
+"2023-08-04T15:30:58.515287Z",
 "metadata":
 {
 "@context":
@@ -23375,7 +23375,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:30:58.547511+00:00",
+"2023-08-04T15:30:58.547511Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c24_ecephys.nwb",
 "size":
@@ -23387,7 +23387,7 @@
 "blob":
 "8c56745b-5eba-4adf-9ab7-b812cfa9b72d",
 "created":
-"2023-08-04T15:31:10.182316+00:00",
+"2023-08-04T15:31:10.182316Z",
 "metadata":
 {
 "@context":
@@ -23577,7 +23577,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:10.195318+00:00",
+"2023-08-04T15:31:10.195318Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c26_ecephys.nwb",
 "size":
@@ -23589,7 +23589,7 @@
 "blob":
 "4cf84b25-a76f-4db7-8696-6cb0b39979c7",
 "created":
-"2023-08-04T15:31:04.565791+00:00",
+"2023-08-04T15:31:04.565791Z",
 "metadata":
 {
 "@context":
@@ -23779,7 +23779,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:04.581130+00:00",
+"2023-08-04T15:31:04.581130Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c27_ecephys.nwb",
 "size":
@@ -23791,7 +23791,7 @@
 "blob":
 "f418a033-8624-42f0-bc38-ef3c53522a21",
 "created":
-"2023-08-04T15:31:03.924260+00:00",
+"2023-08-04T15:31:03.924260Z",
 "metadata":
 {
 "@context":
@@ -23981,7 +23981,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:03.939813+00:00",
+"2023-08-04T15:31:03.939813Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c28_ecephys.nwb",
 "size":
@@ -23993,7 +23993,7 @@
 "blob":
 "8d517691-7b58-4679-9e8e-723e9e473af0",
 "created":
-"2023-08-04T15:31:06.817295+00:00",
+"2023-08-04T15:31:06.817295Z",
 "metadata":
 {
 "@context":
@@ -24183,7 +24183,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:06.833000+00:00",
+"2023-08-04T15:31:06.833000Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c42_ecephys.nwb",
 "size":
@@ -24195,7 +24195,7 @@
 "blob":
 "1befdc2e-08a0-4a74-8b67-ec25989b82c7",
 "created":
-"2023-08-04T15:31:13.112686+00:00",
+"2023-08-04T15:31:13.112686Z",
 "metadata":
 {
 "@context":
@@ -24385,7 +24385,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:13.128548+00:00",
+"2023-08-04T15:31:13.128548Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c44_ecephys.nwb",
 "size":
@@ -24397,7 +24397,7 @@
 "blob":
 "79b1b569-bcc2-4813-a0be-ff5faac0dde7",
 "created":
-"2023-08-04T15:31:21.113706+00:00",
+"2023-08-04T15:31:21.113706Z",
 "metadata":
 {
 "@context":
@@ -24587,7 +24587,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:21.143198+00:00",
+"2023-08-04T15:31:21.143198Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c45_ecephys.nwb",
 "size":
@@ -24599,7 +24599,7 @@
 "blob":
 "56721cf2-72c0-4d8e-a14c-2fa569ac5a34",
 "created":
-"2023-08-04T15:31:18.936545+00:00",
+"2023-08-04T15:31:18.936545Z",
 "metadata":
 {
 "@context":
@@ -24789,7 +24789,7 @@
 ]
 },
 "modified":
-"2023-08-04T15:31:18.954794+00:00",
+"2023-08-04T15:31:18.954794Z",
 "path":
 "sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c46_ecephys.nwb",
 "size":
@@ -24801,7 +24801,7 @@
 "blob":
 "8e75b80c-0703-43ac-92ed-c272692d684b",
 "created":
-"2023-08-10T13:58:43.787630+00:00",
+"2023-08-10T13:58:43.787630Z",
 "metadata":
 {
 "@context":
@@ -24977,7 +24977,7 @@
 ]
 },
 "modified":
-"2023-08-10T13:58:43.787653+00:00",
+"2023-08-10T13:58:43.787653Z",
 "path":
 "test2.nwb",
 "size":
