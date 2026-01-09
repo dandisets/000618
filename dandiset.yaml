@@ -3,7 +3,15 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
-about: []
+about:
+- name: extracellular electrophysiology
+  schemaKey: GenericType
+- name: spike sorting
+  schemaKey: GenericType
+- name: action potential
+  schemaKey: GenericType
+- name: ground-truth dataset
+  schemaKey: GenericType
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
